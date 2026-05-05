@@ -170,31 +170,54 @@ Together these move maize *C*i from above the knee to at or below it. Once on th
 
 ## 7. References
 
-| Citation | Journal | Details |
-|---|---|---|
-| Ainsworth & Long (2005) | *New Phytol.* | 165: 351–372 |
-| Ainsworth & Rogers (2007) | *Plant Cell Environ.* | 30: 258–270 |
-| Ainsworth, Sanz-Saez & Leisner (2025) | *Phil. Trans. R. Soc. B* | 380: 20240230 |
-| Allen et al. (1998) | FAO Irrigation Drainage Paper 56 | |
-| Bellasio (2024) | *New Phytol.* | CCM drought response |
-| Bernacchi et al. (2001) | *Plant Cell Environ.* | 24: 253–259 |
-| Bernacchi et al. (2005) | *Planta* | 220: 434–446 |
-| Bernacchi et al. (2007) | *Plant Physiol.* | 143: 134–144 |
-| Bishop et al. (2015) | *Plant Cell Environ.* | 38: 1765–1774 |
-| De Kauwe et al. (2015) | *Geosci. Model Dev.* | 8: 431–452 |
-| Egea et al. (2011) | *Agric. For. Meteorol.* | 151: 1369–1384 |
-| Farquhar, von Caemmerer & Berry (1980) | *Planta* | 149: 78–90 |
-| Flexas & Medrano (2002) | *Ann. Bot.* | 89: 183–189 |
-| Ghannoum (2009) | *Ann. Bot.* | 103: 635–644 |
-| Leakey et al. (2006a) | *Plant Cell Environ.* | 29: 1794–1800 |
-| Leakey et al. (2006b) | *Plant Physiol.* | 140: 779–790 |
-| Leakey et al. (2009) | *J. Exp. Bot.* | 60: 2859–2876 |
-| Lin et al. (2015) | *Nat. Clim. Change* | 5: 459–464 |
-| Long et al. (2006) | *Science* | 312: 1918–1921 |
-| Medlyn et al. (2011) | *Glob. Change Biol.* | 17: 2134–2144 |
-| Ripley et al. (2007) | *J. Exp. Bot.* | 58: 1351–1363 |
-| Rogers et al. (2004) | *Plant Cell Environ.* | 27: 449–458 |
-| Saxton & Rawls (2006) | *Soil Sci. Soc. Am. J.* | 70: 1569–1578 |
-| Verhoef & Egea (2014) | *Agric. For. Meteorol.* | 191: 22–32 |
-| von Caemmerer (2000) | *Biochemical Models of Leaf Photosynthesis* | CSIRO Publishing |
-| Zhou et al. (2014) | *Tree Physiol.* | 34: 1035–1046 |
+Ainsworth, E.A. & Long, S.P. (2005). What have we learned from 15 years of free-air CO₂ enrichment (FACE)? A meta-analytic review of the responses of photosynthesis, canopy properties and plant production to rising CO₂. *New Phytologist*, 165, 351–372.
+
+Ainsworth, E.A., Sanz-Saez, A. & Leisner, C.P. (2025). Crop photosynthesis in a high-CO₂ world: insights from two decades of free-air CO₂ enrichment. *Philosophical Transactions of the Royal Society B*, 380, 20240230.
+
+Allen, R.G., Pereira, L.S., Raes, D. & Smith, M. (1998). *Crop Evapotranspiration: Guidelines for Computing Crop Water Requirements*. FAO Irrigation and Drainage Paper 56. FAO, Rome.
+
+Bellasio, C. (2024). Drought responses of C4 photosynthesis and the CO₂-concentrating mechanism. *New Phytologist*. https://doi.org/10.1111/nph.19536
+
+Bernacchi, C.J., Singsaas, E.L., Pimentel, C., Portis, A.R. & Long, S.P. (2001). Improved temperature response functions for models of Rubisco-limited photosynthesis. *Plant, Cell & Environment*, 24, 253–259.
+
+Bernacchi, C.J., Leakey, A.D.B., Heady, L.E., Morgan, P.B., Dohleman, F.G., McGrath, J.M., Gillespie, K.M., Wittig, V.E., Rogers, A., Long, S.P. & Ort, D.R. (2005). Hourly and seasonal variation in carbon assimilation, stomatal conductance and transpiration of soybean grown under free-air CO₂ enrichment. *Planta*, 220, 434–446.
+
+Bernacchi, C.J., Morgan, P.B., Ort, D.R. & Long, S.P. (2007). The growth of soybean under free air CO₂ enrichment (FACE) stimulates photosynthesis while decreasing in vivo Rubisco capacity. *Plant Physiology*, 143, 134–144.
+
+Bishop, K.A., Betzelberger, A.M., Long, S.P. & Ainsworth, E.A. (2015). Is there potential to adapt soybean (*Glycine max* Merr.) to future [CO₂]? An analysis of the yield response of 18 genotypes in free-air CO₂ enrichment. *Plant, Cell & Environment*, 38, 1765–1774.
+
+De Kauwe, M.G., Medlyn, B.E., Zaehle, S., Walker, A.P., Dietze, M.C., Wang, Y.-P., Luo, Y., Jain, A.K., El-Masri, B., Hickler, T., Wårlind, D., Weng, E., Parton, W.J., Thornton, P.E., Wang, S., Prentice, I.C., Asao, S., Smith, B., McCarthy, H.R., Iversen, C.M., Hanson, P.J., Warren, J.M., Oren, R. & Norby, R.J. (2015). Where does the carbon go? A model–data intercomparison of vegetation carbon allocation and turnover processes at two temperate forest free-air CO₂ enrichment sites. *Geoscientific Model Development*, 8, 431–452.
+
+Egea, G., Verhoef, A. & Vidale, P.L. (2011). Towards an improved and more flexible representation of water stress in coupled photosynthesis–stomatal conductance models. *Agricultural and Forest Meteorology*, 151, 1369–1384.
+
+Farquhar, G.D., von Caemmerer, S. & Berry, J.A. (1980). A biochemical model of photosynthetic CO₂ assimilation in leaves of C3 species. *Planta*, 149, 78–90.
+
+Flexas, J. & Medrano, H. (2002). Drought-inhibition of photosynthesis in C3 plants: stomatal and non-stomatal limitations revisited. *Annals of Botany*, 89, 183–189.
+
+Ghannoum, O. (2009). C4 photosynthesis and water stress. *Annals of Botany*, 103, 635–644.
+
+Leakey, A.D.B., Bernacchi, C.J., Dohleman, F.G., Ort, D.R. & Long, S.P. (2006). Will photosynthesis of maize (*Zea mays*) in the US Corn Belt increase in future [CO₂] rich atmospheres? An analysis of diurnal courses of CO₂ uptake under free-air concentration enrichment (FACE). *Plant Physiology*, 140, 779–790.
+
+Lin, Y.-S., Medlyn, B.E., Duursma, R.A., Prentice, I.C., Wang, H., Baig, S., Eamus, D., de Dios, V.R., Mitchell, P., Ellsworth, D.S., de Beeck, M.O., Wallin, G., Uddling, J., Tarvainen, L., Linderson, M.-L., Cernusak, L.A., Nippert, J.B., Ocheltree, T.W., Tissue, D.T., Martin-StPaul, N.K., Rogers, A., Warren, J.M., De Angelis, P., Hikosaka, K., Han, Q., Onoda, Y., Gimeno, T.E., Barton, C.V.M., Bennie, J., Bonal, D., Bosc, A., Löw, M., Macinins-Ng, C., Rey, A., Rowland, L., Setterfield, S.A., Tausz-Posch, S., Zaragoza-Castells, J., Broadmeadow, M.S.J., Drake, J.E., Freeman, M., Ghannoum, O., Hutley, L.B., Kelly, J.W., Kikuzawa, K., Kolari, P., Koyama, K., Limousin, J.-M., Meir, P., Lola da Costa, A.C., Mikkelsen, T.N., Salinas, N., Sun, W. & Wingate, L. (2015). Optimal stomatal behaviour around the world. *Nature Climate Change*, 5, 459–464.
+
+Long, S.P., Ainsworth, E.A., Leakey, A.D.B., Nösberger, J. & Ort, D.R. (2006). Food for thought: lower-than-expected crop yield stimulation with rising CO₂ concentrations. *Science*, 312, 1918–1921.
+
+Massad, R.-S., Tuzet, A. & Bethenod, O. (2007). The effect of temperature on C4-type leaf photosynthesis parameters. *Plant, Cell & Environment*, 30, 1191–1204.
+
+Medlyn, B.E., Duursma, R.A., Eamus, D., Ellsworth, D.S., Prentice, I.C., Barton, C.V.M., Crous, K.Y., De Angelis, P., Freeman, M. & Wingate, L. (2011). Reconciling the optimal and empirical approaches to modelling stomatal conductance. *Global Change Biology*, 17, 2134–2144.
+
+Ripley, B.S., Gilbert, M.E., Ibrahim, D.G. & Osborne, C.P. (2007). Drought constraints on C4 photosynthesis: stomatal and metabolic limitations in C3 and C4 subspecies of *Alloteropsis semialata*. *Journal of Experimental Botany*, 58, 1351–1363.
+
+Rogers, A., Allen, D.J., Davey, P.A., Morgan, P.B., Bernacchi, C.J., Mahoney, J., Gielen, B., Fiscus, E.L., Stitt, M., Hendrey, G.R., Athanasiou, A., Frenck, G., Zhu, X.-G., DeLucia, E.H., Ort, D.R. & Long, S.P. (2004). Leaf photosynthesis and carbohydrate dynamics of soybeans grown throughout their life-cycle under free-air carbon dioxide enrichment. *Plant, Cell & Environment*, 27, 449–458.
+
+Saxton, K.E. & Rawls, W.J. (2006). Soil water characteristic estimates by texture and organic matter for hydrologic solutions. *Soil Science Society of America Journal*, 70, 1569–1578.
+
+Verhoef, A. & Egea, G. (2014). Modeling plant transpiration under limited soil water: comparison of different plant and soil hydraulic parameterizations and preliminary implications for their use in land surface models. *Agricultural and Forest Meteorology*, 191, 22–32.
+
+von Caemmerer, S., Evans, J.R., Hudson, G.S. & Andrews, T.J. (1994). The kinetics of ribulose-1,5-bisphosphate carboxylase/oxygenase in vivo inferred from measurements of photosynthesis in leaves of transgenic tobacco. *Planta*, 195, 88–97.
+
+von Caemmerer, S. (2000). *Biochemical Models of Leaf Photosynthesis*. CSIRO Publishing, Collingwood, Australia.
+
+von Caemmerer, S. (2013). Steady-state models of photosynthesis. *Plant, Cell & Environment*, 36, 1617–1630.
+
+Zhou, S., Duursma, R.A., Medlyn, B.E., Kelly, J.W.G. & Prentice, I.C. (2014). How should we model plant responses to drought? An analysis of stomatal and non-stomatal responses to water stress. *Agricultural and Forest Meteorology*, 182–183, 204–214.
