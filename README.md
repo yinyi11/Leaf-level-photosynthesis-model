@@ -1,6 +1,6 @@
 # Differential CO₂ Fertilization Effect: A Leaf-Level Photosynthesis Model
 
-A theoretical model diagnosing why soybean (C3) and maize (C4) respond differently to rising atmospheric CO₂, and why that difference collapses under drought. The model couples biochemical photosynthesis (Farquhar–von Caemmerer–Berry for C3; von Caemmerer 2000 for C4) to an anchored Medlyn stomatal sub-model with soil-water stress.
+A theoretical model diagnosing why soybean (C3) and maize (C4) respond differently to rising atmospheric CO₂, and how the difference changes under drought. The model couples biochemical photosynthesis (Farquhar–von Caemmerer–Berry for C3; von Caemmerer 2000 for C4) to an anchored Medlyn stomatal sub-model with soil-water stress.
 
 ## Repository structure
 
